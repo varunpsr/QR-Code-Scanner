@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="QR Code Scanner\QR Code Scanner.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4.7Inch" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QR Code Scanner\MainActivity.cs">
+    <Files>
+      <File FileName="QR Code Scanner\MainActivity.cs" Line="3" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="QR Code Scanner" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Assets" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QR_220Code_220Scanner AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
